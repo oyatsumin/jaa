@@ -1,0 +1,27 @@
+{
+  "name": "jaa",
+  "version": "1.0.0",
+  "description": "just an assistant",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mssql": "^5.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyatsumin/jaa.git"
+  },
+  "keywords": [
+    "jaa"
+  ],
+  "author": "oyatsumin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyatsumin/jaa/issues"
+  },
+  "homepage": "https://github.com/oyatsumin/jaa#readme"
+}
